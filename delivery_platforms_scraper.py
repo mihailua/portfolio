@@ -31,7 +31,7 @@ negative = "M1.54053 9H8.91063L11.9998 0.890976L15.0889 9H22.459L17.2254 14.0995
 positive = "M12 1L9 9H2L7 14.0001L5 21L12 17.0001L19 21L17 14.0001L22 9H15L12 1Z"
 
 print("https://deliveroo.co.uk/menu/Town/Location/Name-of-Store?")
-website = input("Please paste the desired location deliveroo url as per syntax shown above (press Enter for Crunch): ")
+website = input("Please paste the desired location deliveroo url as per syntax shown above (press Enter for Wingstop): ")
 
 if website == "":
     website = 'https://deliveroo.co.uk/menu/London/whitechapel-editions-site/wingstop-editions-whi/'
@@ -184,10 +184,10 @@ print("Success :p")
 uberyesorno = input("Uber? (y/n)")[0].casefold()
 if uberyesorno =="y":
     print("https://www.ubereats.com/gb/store/name/kakie-to-numbers")
-    website = input("Please paste the desired location deliveroo url as per syntax shown above (press Enter for Crunch): ")
+    website = input("Please paste the desired location UberEats url as per syntax shown above (press Enter for PizzaHut): ")
 
     if website == "":
-        website = 'https://www.ubereats.com/gb/store/crunch-spitalfields/b9oiDw7nUmmdU9eNXcDNIQ?'
+        website = 'https://www.ubereats.com/store/pizza-hut-express-westfield-stratford-city/2g8q6JghW8KiT2gvJI0jFw'
 
     driver = webdriver.Chrome()
 
