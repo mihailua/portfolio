@@ -1,0 +1,51 @@
+Location,Category,Item
+Shop1,Forecast,Hash brown
+Shop1,Forecast,Chicken roll
+Shop1,Forecast,Vegetarian special
+Shop1,Forecast,Beef roll
+Shop1,Forecast,Pork roll
+Shop1,Forecast,Xxl hash brown
+Shop1,Forecast,Ice tea
+Shop1,Forecast,Pork tater tots
+Shop1,Forecast,Dry beef
+Shop2,Forecast,Chicken cutlet
+Shop2,Forecast,Tofu cutlet
+Shop2,Forecast,Chicken thighs
+Shop2,Forecast,Toncutlet
+Shop2,Forecast,Chicken hearts
+Shop2,Forecast,Burnt buttered corn
+Shop2,Forecast,Poppers chicken
+Shop2,Forecast,Miso butter corn
+Shop2,Forecast,Steak cutlet
+Shop2,Forecast,House ice tea
+Shop2,Forecast,Chicken wrap
+Shop2,Forecast,Tofu wrap
+Shop2,Forecast,Steak wrap
+Shop1,Baseline,Coca cola zero
+Shop1,Baseline,Coca cola
+Shop1,Baseline,Water
+Shop1,Baseline,Craft beer
+Shop1,Baseline,Coleslaw
+Shop2,Baseline,Coca cola
+Shop2,Baseline,Coca cola zero
+Shop2,Baseline,Water
+Shop2,Baseline,Coleslaw
+Shop2,Baseline,Sake can
+Shop2,Baseline,Toncutlet sauce
+Shop2,Baseline,Ice green tee
+Shop2,Baseline,Chilli oil
+Shop2,Baseline,Ice green tea
+Shop2,Baseline,Curry sauce
+Shop1,Ignore,Flat iron roll
+Shop1,Ignore,House pickles
+Shop1,Ignore,Lemon aioli
+Shop1,Ignore,Custom amount
+Shop1,Ignore,Chipotle mayo
+Shop1,Ignore,House ice tea
+Shop2,Ignore,Grilled zucchini
+Shop2,Ignore,Chicken skin
+Shop2,Ignore,Custom amount
+Shop2,Ignore,Zucchini
+Shop2,Ignore,House pickles
+Shop2,Ignore,Tiramisu
+Shop2,Ignore,Shop2 gourmet
