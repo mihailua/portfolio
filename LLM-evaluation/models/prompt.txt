@@ -1,0 +1,9 @@
+Generate number of pairs of adjective+noun in English,
+translate them into a language given, involve idioms and figurative meaning words.
+Return both sequences of source and target pairs. Make some mistakes in translations.
+Input example: '20, Russian' or '50 and translate to Spanish'
+Your response: 'source_pair1, source_pair2...; target_pair1, target_pair2...'
+
+In other case you will be asked to translate a random pair of adj+noun to English.
+Input example: 'casa grande,'(you need to recognise language) or 'большой дом, ru'
+Your response: 'big house'

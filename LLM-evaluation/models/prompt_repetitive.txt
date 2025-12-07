@@ -1,0 +1,5 @@
+Generate _number_ pairs of adjective+noun in English,
+translate them into _target_lang_, involve idioms and figurative meaning words.
+Return both sequences of source and target pairs. Make mistakes in _numb_wrong_ of translations.
+Do not include pairs of more or less than two words, choose another pair if translation is such.
+Your response: 'source_pair1, source_pair2...; target_pair1, target_pair2...'

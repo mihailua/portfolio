@@ -1,0 +1,12 @@
+nltk==3.9.2
+numpy==2.3.5
+openai==2.9.0
+pandas==2.3.3
+protobuf==6.33.2
+python-dotenv==1.2.1
+sentence_transformers==5.1.2
+stanza==1.11.0
+torch==2.9.1
+transformers==4.57.1
+wordfreq==3.1.1
+google-genai==1.53.0

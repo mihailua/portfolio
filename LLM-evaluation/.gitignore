@@ -1,0 +1,11 @@
+data/*
+!/data/processing/
+notebooks/
+config.yaml
+test2.py
+test.py
+.venv/
+models/env/
+idea/
+DS_Store
+src/exp/experiment.py
