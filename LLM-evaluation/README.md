@@ -5,7 +5,7 @@ adjective–noun pairs across 20+ languages.
 We're using **Google Gemini** and/or **OpenAI** generated input data, **Stanza**,
 and custom linguistic processing to compare grammatical and semantic alignment between English
 and target languages. The source of reference translation data are **Wiktionary**
-processed dumps, which are beforehand adapted for out use (original English nouns dataset > 1.5gb)
+processed dumps, which are beforehand adapted for our use (original English nouns dataset > 1.5gb)
 ---
 
 ## Features
@@ -16,7 +16,7 @@ processed dumps, which are beforehand adapted for out use (original English noun
   - **Stanza** (POS tagging, dependency parsing)
   - **wordfreq**
   - Custom dictionary-based lemma extraction
-  - BERT-like models for tokenization
+  - **BERT**-like models for tokenization
 - Cross-lingual evaluation suitability
 - Jupyter Notebook workflows
 
