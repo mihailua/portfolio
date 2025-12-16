@@ -1,0 +1,16 @@
+.venv/
+env/
+venv/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.idea/
+*.iml
+
+data/raw/
+data/processed/
+
+.DS_Store
